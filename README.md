@@ -5,11 +5,11 @@ Youtube
 Activities
 My peers
 w3schools
+TA's
+My Tutor
 
-link
+links
+https://github.com/AndrewBurke87/passwordGenerator
+https://andrewburke87.github.io/passwordGenerator/
 
-# passwordGenerator
-
-# passwordGenerator
-
-s
+I still can not get screenshot to work for the readme.
